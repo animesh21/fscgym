@@ -1,0 +1,10 @@
+Django==1.11.4
+django-cors-headers==2.1.0
+django-filter==1.0.4
+django-grappelli==2.10.1
+djangorestframework==3.6.4
+Markdown==2.6.9
+olefile==0.44
+Pillow==4.2.1
+psycopg2==2.7.3
+pytz==2017.2
